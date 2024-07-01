@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "linhnguyenaio",
+        "projectKey": "LinhNguyenAIO_My_First_Streamlit"
+    }
+}
