@@ -12,8 +12,8 @@ This Streamlit is deploying interactive web applications which included in this 
 ## How to Intall
 1. **Clone the repository:**
    ```sh
-    git clone https://github.com/
-    cd 
+    git clone https://github.com/LinhNguyenAIO/My_First_Streamlit
+    cd My_First_Streamlit
     ```
 2. **(Optional) Create and activate a virtual environment**:
    
@@ -34,7 +34,7 @@ This Streamlit is deploying interactive web applications which included in this 
     ```
 ## Running the Application
 
-Once everything is ready, you can launch the application by running one of the following commands based on the application you want to start:
+You can launch the application by running one of the following commands based on the application:
 
 1. **Correct Word**:
     ```sh
@@ -46,7 +46,7 @@ Once everything is ready, you can launch the application by running one of the f
     streamlit run object-detection.py
     ```
 
-3. **Chatbot**:
+3. **Simple Chatbot**:
     ```sh
     streamlit run chatbot.py
     ```
